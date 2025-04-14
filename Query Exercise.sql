@@ -1,3 +1,5 @@
+--Hi. This is a new comment
+
 Use my_guitar_shop;
 Select category_name,product_name, list_price
 from categories as c
